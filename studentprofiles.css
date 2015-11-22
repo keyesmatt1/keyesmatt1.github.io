@@ -1,7 +1,7 @@
 ﻿/* Note to students: Some properties are given to you to fill out,
 others you can modify as they stand, and if you have time,
 there are definitely some properties you should add!*/
-​
+
     html {
       height: 100%;
     }
@@ -9,7 +9,7 @@ there are definitely some properties you should add!*/
        width: 800px;
        height: 100%;
     }
-​
+
     header {
         background-color: #67BF6F;
         padding: 20px;
@@ -29,7 +29,7 @@ there are definitely some properties you should add!*/
         width: 800px;
         font-size: 20px;
         font-variant: small-caps;
-​
+
     }
     nav ul {
         padding: ;

@@ -1,0 +1,123 @@
+﻿/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+    }
+
+    header {
+        background-color: #84AA31;
+        width: 800px;
+        padding: 20px;
+        border: 1px solid red;
+        margin: 10px;
+        font-size: 20;
+        display: block;
+        text-align: center;
+    }
+    nav {
+        
+        width: 800px;
+        background: #84AA31;
+        border: 1px solid red;
+        margin: 10px;
+        padding: 20px;
+        text-align: center;
+    }
+    nav ul {
+        display: inline;
+        padding:1px ;
+        border-bottom:1px ;
+        list-style-type: none;
+        
+    }
+    nav li {
+        display: inline;
+    }
+    nav li a {
+        display: inline;
+        
+        height: 20px;
+        margin: 40px;
+        vertical-align: middle;
+        color: black;
+    }
+    a {
+        color:#84AA31;
+    }
+    section {
+        background-color: #84AA31;
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+        float: left;
+        margin: 10px;
+        padding: 20px;
+        border: 1px solid red;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:#84AA31;
+        padding:10px;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 800px;
+        background-color:#84AA31;
+        color:#84AA31;
+        clear: both;
+        display: block;
+    }
+.fund {
+    color: black;
+    background-color: #84AA31;
+    padding: 20px;
+    border: 1px solid red;
+    margin: 10px;
+    font-size: 20;
+    display: block;
+}
+.yo {
+    width: 800px;
+    color: black;
+    background-color: #84AA31;
+    clear: both;
+    padding: 20px;
+    margin: 10px;
+    font-size: 20;
+    display: left;
+    float: left;
+    text-align: center;
+}
+
+.argh {
+        background-color: #84AA31;
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+        float: left;
+        margin: 0px;
+        padding: 20px;
+        border: 1px solid red;
+}
+
+.container {
+    margin-left: 200px;
+    width: 400px;
+    height: 400px;
+}
+
+/* resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}
